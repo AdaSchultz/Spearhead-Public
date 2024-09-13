@@ -1,7 +1,7 @@
 Currently, Prop suffers from a weird mix of Mechanized and Defensive equipment. This intends to push them to the Defensive, at the cost of the Mechanized Equipment they once had.
 
 ## Global Changes
-A new set of globals for Propaganda to play with.
+A new set of globals for Propaganda
 
 ### 1. [Global] (PASSIVE) Nero Decree
 - “The enemy advances closer and closer to the Fatherland, ensure they inherit nothing but rubble.”
@@ -46,6 +46,7 @@ Propaganda has a fairly empty infantry roster, and these squads intend to fill i
   4. SS-Schutzpolizei Retinue
     - Description: Assorted rearguard policemen under the command of the SS, tasked with keeping frontline order. They conducted this by making examples of “deserters”, hanging them for all to see.
     - Skill: Poor
+    - Armament: Lugers, MP40
     - Role: Tactical Support
     - Base Kit: Brandflasche, Halt Retreat, Supervise, Bolster Volkssturm
    (This squad is the replacement for the 3rd SS Vets)
@@ -54,6 +55,7 @@ Propaganda has a fairly empty infantry roster, and these squads intend to fill i
 Propaganda has a lot to lose, but it makes up for it in other areas
   - Loss of Tiger Ace & Nebelwerfer
   - Gains Stuka with Flame Rockets instead of HE Rockets for Area Denial
+
 ## Thematic Changes
 Sturmgrens, Officers and the Volkssturm Panzerjager are being touched upon
   - Sturmgrenadier:
