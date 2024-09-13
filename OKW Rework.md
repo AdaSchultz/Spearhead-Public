@@ -11,23 +11,8 @@ The Short of these Changes are as follows:
 2. Tweaks to Panzerjäger, Panzer & Sturm to cement their roles and increase uniqueness compared to Wehr Counterparts.
 - i.e, Bringing Panzerjäger's Anti-Infantry capabilities back to a reasonable amount, Sturm receiving changes to upgrades
 3. Various description changes to units that otherwise seemed misleading or attempting to glorify these units more than they deserve
-## Balance Changes
 
-### Global
+### General Changes
 
 - Base Buildings are cost reduced by 50% upon rebuilding
 - Stoßtruppen removed from Non-Doc Roster, now a Sturm Exclusive Unit
-
-### Panzer Tactics (SS Panzer)
-- Infantry Changes are as follows:
-### Panzerjäger Tactics
-
-### Jäger Tactics
-
-### Sturm Tactics
-
-### Mechanized Tactics
-
-### Propaganda Tactics
-- Sturmgrenadier & Officer Thematics change
-  - Sturmgrenadiers are now 32nd SS, Officers are various Junkerschule Units.
