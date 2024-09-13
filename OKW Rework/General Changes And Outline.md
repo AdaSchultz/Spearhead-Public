@@ -16,3 +16,9 @@ The Short of these Changes are as follows:
 
 - Base Buildings are cost reduced by 50% upon rebuilding
 - Stoßtruppen removed from Non-Doc Roster, now a Sturm Exclusive Unit
+
+
+### Infantry Changes
+The Existing squads will have their K98s changed out for G43s:
+  - (Mech) 10th SS Grenadiere
+  - (Sturm) 2nd SS Panzergrenadiere
