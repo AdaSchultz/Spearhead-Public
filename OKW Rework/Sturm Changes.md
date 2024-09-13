@@ -1,14 +1,14 @@
-### Upgrade Changes
+## Upgrade Changes
 Various units are getting their upgrades changed in order to suit their roles better within the Doctrine
   - Grenadier Rifle Grenade replaced with Grenade Assault
   - Sturmgrenadiers gain STG44 x2 Upgrade. Further discussion on MG30
   - Panzergrenadier (T1 Doctrinal) loses Panzerschreck and x2 G43 Upgrade, gains Flammenwerfer 41 and x4 MP40 Upgrades
   - Stoßtruppen's x4 STG Upgrade locked behind KKZ Infantry Vet 1
 
-### Vehicle Changes
+## Vehicle Changes
 In order for the Panzerwerfer to find a new home in the SS during all this Reshuffle, it has found its way into Sturm to be a happy medium between the mobile yet sluggish Sturmtiger, and the reliable but static LefH
 
-### Thematic Changes
+## Thematic Changes
 Various descriptions were determined to be a bit much. Other changes include a thematic one
   - T1 Officer:
       - Description: The 2nd SS can trace its origins back to the SS-VT’s Germania Regiment, engaged in offensive action through the low countries and France. Upon proper divisional formation, this unit turned East, leading to Moscow.
