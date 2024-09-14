@@ -20,5 +20,5 @@ The Short of these Changes are as follows:
 
 ### Infantry Changes
 The Existing squads will have their K98s changed out for G43s:
-  - (Mech) 10th SS Grenadiere
-  - (Sturm) 2nd SS Panzergrenadiere
+  - (Mech) 10th SS Grenadiere (Tier 1/Static Defense)
+  - (Sturm) 2nd SS Panzergrenadiere (Tier 1/Assault)
