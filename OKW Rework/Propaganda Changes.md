@@ -19,7 +19,8 @@ Handful of Weapon Upgrade Changes
 
 ## Infantry Changes
 Propaganda has a fairly empty infantry roster, and these squads intend to fill it out
-1.  30th SS-Gren. Div ‘Russ. 2’ Ersatzgrenadiere
+1.  30th SS-Gren. Div ‘Russ. 2’ Ersatzgrenadiere ![wehr30thssgrenadiere](https://github.com/user-attachments/assets/9294b63a-c605-4db8-9148-758c5e53b81e)
+
     - Description: Raised in 1944 out of former Soviet volunteers and conscripts, these disorderly men were utilized in the defense of the German borders. The only thing keeping these men fighting is fear of reprocussions at the hands of the Soviets.
     - Armaments: Mosins, MP40
     - Skill: Poor
@@ -27,7 +28,8 @@ Propaganda has a fairly empty infantry roster, and these squads intend to fill i
     - Base Kit: Egg Grenade, Brandflasche
     - Upgrades: ZB-26, PTRD-41, x2 MP34, Panzerfaust 30, RG-42
 
-2. 20th Estnische Freiwilligen Grenadiere
+2. 20th Estnische Freiwilligen Grenadiere ![wehr25thssestonian](https://github.com/user-attachments/assets/3512b471-796e-4e28-9b8e-e066eacfdf1f)
+
     - Description: Built from varying Estonian SS Units, the 20th was rushed to the Defense of Narva to shield it from a Soviet Offensive. Having distinguished itself, this unit was sent to hold the Tannenburg Line alongside other Foreign Legions.
     - Armaments: K98, MP40
     - Skill: Regular
@@ -35,7 +37,8 @@ Propaganda has a fairly empty infantry roster, and these squads intend to fill i
     - Base Kit: M24 Grenade, HHL-3, Brandflasche
     - Upgrades: MG42 (100rnd), Trench Mag K98, 3cm Rifle Grenade, AT Rifle Grenade (Obtains Panzerfaust 100 with global upgrade)
   
-3. 22nd SS-Kavallerie Reiter Grenadiere
+3. 22nd SS-Kavallerie Reiter Grenadiere ![wehr8thsscavicon](https://github.com/user-attachments/assets/d493b589-d691-4a49-9be7-e3f7dcd996c5)
+
     - Description: A combination of SS cavalry units and Royal Hungarian Army units, the 22nd found itself fighting in Romania, parrying various Soviet spearheads and thrusts. The last actions involved desperate fighting in Budapest after a coup d'état. 
     - Armaments: G43, MP40
     - Skill: Regular
@@ -59,7 +62,8 @@ Propaganda has a lot to lose, but it makes up for it in other areas
 ## Thematic Changes
 Sturmgrens, Officers and the Volkssturm Panzerjager are being touched upon
   - Sturmgrenadier:
-      - Name: 32. SS ‘30 Januar’ Sturmgrenadiere
+      - Name: 32. SS ‘30 Januar’ Sturmgrenadiere ![wehr30ththsssturmgrenadieredoubleicon](https://github.com/user-attachments/assets/cce785cb-e065-49d9-87cc-427145d870a5)
+
       - Description: Raised as a Grenadier division in 1944, the division drew manpower from training schools, Hungarians, Romanians and small units to fill out its ranks. Upon completing its training, the division was sent to fight along the Oder River to stem the tide of the Red Army, being pushed back until ending up in the defense of Berlin.
   - Volkssturm Panzerjager:
       - Name: Hitlerjugend Panzerjager
