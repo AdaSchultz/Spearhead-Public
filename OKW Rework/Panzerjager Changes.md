@@ -23,9 +23,11 @@ Various descriptions were determined to be a bit off.
 
   - 17th SS Panzerjager Team:
       - Description: Finding themselves fighting in the dense hedgerows of France, the 17th SS utilized the terrain to their advantage to deal with the allied armored numbers. Coordination with StuG tank destroyers, Panzerschreck and other handheld AT weaponry, the 17th was able to inflict heavy armored losses in what would become known as Hedgerow Hell.
-  - Panzergrenadier:
+  - Panzergrenadier: ![wehr17thpanzergrenadieresicon](https://github.com/user-attachments/assets/15a08b4e-85db-4022-a775-8d26d848ca8a)
+
       - Description: Despite being a Panzergrenadier division, the 17th lacked organic tanks and even had to scrounge up vehicles from the French. Nevertheless, it managed to coordinate well with the vehicles it did have, able to keep consistent movement and redeployment, even in the face of resistance attacks and allied bombing hampering movement. 
   - Sturmgrenadier:
       - Description:  Despite the lacking numbers of NCOs and officers, the 17th SS was thrown into combat with the opening stages of Normandy. Here it got its first taste of combat and would continue to give their enemy a bloody nose each time it fought, however it would come at the cost of heavy casualties.
-  - Grenadier:
+  - Grenadier: ![wehr17thssgrenadieredoubleicon](https://github.com/user-attachments/assets/ea8793a5-59d2-4a05-8571-ae508cbbd4db)
+
       -   Description: Unable to fully fill the ranks of their infantry battalions with ethnic Germans, the 17th had to make do with various Volksdeutsche recruits from Romania, France, and Ostlegions. Whilst training was the same across the board, these grenadiers lacked the same enthusiasm and fanaticism as the rest of the division.
