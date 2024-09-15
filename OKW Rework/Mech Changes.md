@@ -27,7 +27,8 @@ SS Mech is being granted an extra squad, and tweaks to the doctrinal squads
       - Upgrades: x2 STG44, x2 G43 (Zf4), Rifle Grenade, Smoke Rifle Grenade, Panzerfaust 100 (Panzerfaust with global)
 
 And the doctrinal squad changes are as follows:
-1. 9th SS Grenadiere
+1. 9th SS Grenadiere ![wehr9thpanzericon](https://github.com/user-attachments/assets/2f01e0d1-db1c-458d-a14a-112088178568)
+
       - Description: The 9th SS primarily recruited from the RAD, an organization designed to provide logistical support and create fortifications. As a result, these men had a finer understanding for engineering that kept Panzers rolling
       - Armaments: K98s, MP40
       - Skill: Regular
@@ -35,7 +36,8 @@ And the doctrinal squad changes are as follows:
       - Base Kit: M24 Grenade, Smoke Grenade, Rudimentary Repair
       - Upgrades: x4 G43, x2 MP40, MG34, Grenade Assault, Basic Repair, Endurance Training
 
-2. 10th SS Panzergrenadier
+2. 10th SS Panzergrenadier ![wehr10thssmountain](https://github.com/user-attachments/assets/b48392d7-411b-48cb-a6db-babcff16e30e)
+
       - Description: Despite being inexperienced, the Panzergrenadiers of the 10th did their best to distinguish themselves, from relieving troops caught in Army Group South, to stalling and parrying the Americans and British in the Netherlands.
       - Armaments: G43, MP40
       - Skill: Experienced
