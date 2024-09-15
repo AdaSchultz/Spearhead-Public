@@ -20,5 +20,7 @@ The Short of these Changes are as follows:
 
 ### Infantry Changes
 The Existing squads will have their K98s changed out for G43s:
-  - (Mech) 10th SS Grenadiere (Tier 1/wehr10thssmountain)
-  - (Sturm) 2nd SS Panzergrenadiere (Tier 1/wehr2nddasreichsjwicon)
+  - (Mech) 10th SS Grenadiere (Tier 1) ![wehr10thssmountain](https://github.com/user-attachments/assets/c1766f60-33f9-4f43-8249-6bb1759d4b90)
+
+  - (Sturm) 2nd SS Panzergrenadiere (Tier 1) ![wehr2nddasreichsjwicon](https://github.com/user-attachments/assets/d6f6f04f-9cb5-4ffe-9c09-fb3c3f1cc79d)
+
