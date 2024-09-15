@@ -29,5 +29,6 @@ In order to give SS Panzer a unique playstyle from its Wehrmacht counterpart, th
   - Global Upgrade at T3 for Smoke Dischargers
 ## Thematic Changes
 The Hitlerjugend squad was a bit much in its description, has been tweaked.
-  - Panzergrenadier:
+  - Panzergrenadier: ![wehr12thsshitlerjugend](https://github.com/user-attachments/assets/64f5a9d9-70ec-4fe2-b567-a42e866de211)
+
       - Description: Raised as Panzergrenadiere in 1943 and led by a veteran cadre from the LSSAH, most of the 12th SS were recruited from the Hitler Youth. Despite their young age and lack of combat experience, these panzergrenadiers fought fanatically, taking horrific losses in the process.
