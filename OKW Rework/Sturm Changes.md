@@ -25,5 +25,6 @@ Various descriptions were determined to be a bit much. Other changes include a t
       - Description: Infantry of Das Reich were seasoned veterans of the Eastern Front, specifically at Kursk, earning the nickname of ‘Front Swine’ given their fighting in the muddy steppes of the Soviet Union. These lessons allowed them to train recruits up to par before being baptized in combat.
   - Grenadier:
 Instead of the Wallonians, the Grenadier squad is seeing a complete facelift
-      -   Name Change: 33. SS-Sturmbrigade Charlemagne Grenadiere
+      -   Name Change: 33. SS-Sturmbrigade Charlemagne Grenadiere ![wehr33rdcharlemagneicon](https://github.com/user-attachments/assets/527483cb-d6f4-4f9f-bd42-c4cc11c675d9)
+
       -   Description: With the dissolution of the LVF and Sturmbrigade Frankreich, the 33rd SS was born from their combined ashes. The indoctrinated men of the 33rd proved themselves capable, launching local counterattacks against the Red Army, until the bitter end in the Reichstag.
